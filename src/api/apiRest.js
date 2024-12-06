@@ -8,7 +8,7 @@ export const API_SERVER = import.meta.env.VITE_BACKEND_URL || "http://localhost:
 
 //? CREATE **********************************************************************************/
 export const createdRegistro = async (datax) => {
-    const { data } = await axios.post(`${API_SERVER}registro/create`, datax, {
+    const { data } = await axios.post(`${API_SERVER}/registro/create`, datax, {
       headers: {
         "Content-Type": "application/json",
       },

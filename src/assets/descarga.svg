@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 20 20" stroke="#707070" xmlns="http://www.w3.org/2000/svg">
+  <g class="mectrl_stroke" fill="none">
+    <circle cx="9.75" cy="9.75" r="8" style="stroke-width: 0.3px; stroke: rgb(255, 255, 255);"/>
+    <g transform="matrix(0.306513, 0, 0, 0.306513, 2.221681, 1.524627)" stroke-width="2" style="">
+      <circle cx="24.25" cy="18" r="9" style="stroke-width: 1.305px; stroke: rgb(255, 255, 255);"/>
+      <path d="M11.2 40a1 1 0 1126.1 0" style="stroke-width: 1.305px; stroke: rgb(255, 255, 255);"/>
+    </g>
+  </g>
+</svg>
